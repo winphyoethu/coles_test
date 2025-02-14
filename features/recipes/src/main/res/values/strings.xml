@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- General -->
+    <string name="retry">Retry</string>
+    <string name="back_button">Back</string>
+
+    <!-- Error Message -->
+    <string name="authentication_error">Unable to authenticate</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="unexpected_error">Unexpected Error</string>
+
+    <!-- Recipe List -->
+    <string name="discover_recipe_title">Discover Recipe</string>
+    <string name="coles_logo">Coles Logo</string>
+
+    <!-- Recipe Detail -->
+    <string name="recipe_detail">Recipe Detail</string>
+    <string name="recipe_detail_ingredients">Ingredients</string>
+    
+</resources>
