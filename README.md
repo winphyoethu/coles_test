@@ -56,7 +56,7 @@ cd your-repo
 4. Run the application on an emulator or device.
 
 ## Screenshots
-Portrait
+Portrait<br/>
 <img src="https://github.com/winphyoethu/coles_test/blob/main/screenshots/portrait.jpg?raw=true" width="200" alt="portrait"/><img src="https://github.com/winphyoethu/coles_test/blob/main/screenshots/portrait_detail.jpg?raw=true" width="200" alt="portrait_detail"/><br/>
-Landscape
+Landscape<br/>
 <img src="https://github.com/winphyoethu/coles_test/blob/main/screenshots/landscape.jpg?raw=true" width="500" alt="landscape"/><img src="https://github.com/winphyoethu/coles_test/blob/main/screenshots/landscape_detail.jpg?raw=true" width="500" alt="landscape_detail"/>
