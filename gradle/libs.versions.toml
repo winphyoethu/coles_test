@@ -28,6 +28,7 @@ coil = "2.7.0"
 androidx_test = "2.2.0"
 mockito_core = "5.12.0"
 mockito_kotlin = "2.2.0"
+robolectric = "4.14.1"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
@@ -79,6 +80,7 @@ kotlin-test = { group = "org.jetbrains.kotlin", name = "kotlin-test", version.re
 mockito-core = { module = "org.mockito:mockito-core", version.ref = "mockito_core" }
 mockito-kotlin = { module = "com.nhaarman.mockitokotlin2:mockito-kotlin", version.ref = "mockito_kotlin" }
 mockito-inline = { module = "org.mockito:mockito-inline", version.ref = "mockito_core" }
+robolectric = { group = "org.robolectric", name = "robolectric", version.ref = "robolectric" }
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }

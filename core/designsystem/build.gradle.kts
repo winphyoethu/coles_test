@@ -18,6 +18,11 @@ android {
             )
         }
     }
+    testOptions {
+        unitTests {
+            isIncludeAndroidResources = true
+        }
+    }
     kotlinOptions {
         jvmTarget = "17"
     }
@@ -33,5 +38,9 @@ dependencies {
     api(libs.androidx.ui.font)
     api(libs.coil)
     api(project(":core:model"))
+
+    testImplementation(libs.robolectric)
+    testImplementation(libs.androidx.ui.test.junit4)
+    testImplementation(libs.androidx.ui.test.manifest)
 
 }
