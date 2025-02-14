@@ -48,7 +48,7 @@ The project is designed by following the MVVM architecture. This project is stru
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-repo.git 
+git clone git@github.com:winphyoethu/coles_test.git
 cd your-repo
 ```
 2. Open the project in Android Studio.
@@ -56,3 +56,7 @@ cd your-repo
 4. Run the application on an emulator or device.
 
 ## Screenshots
+Portrait
+<img src="https://github.com/winphyoethu/coles_test/blob/main/screenshots/portrait.jpg?raw=true" width="200" alt="portrait"/><img src="https://github.com/winphyoethu/coles_test/blob/main/screenshots/portrait_detail.jpg?raw=true" width="200" alt="portrait_detail"/><br/>
+Landscape
+<img src="https://github.com/winphyoethu/coles_test/blob/main/screenshots/landscape.jpg?raw=true" width="500" alt="landscape"/><img src="https://github.com/winphyoethu/coles_test/blob/main/screenshots/landscape_detail.jpg?raw=true" width="500" alt="landscape_detail"/>
