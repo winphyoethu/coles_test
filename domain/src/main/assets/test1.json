@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "database": {
     "version": 1,
-    "identityHash": "d572c63d13ee7bec7fa7d18c1a05e497"},
+    "identityHash": "d572c63d13ee7bec7fa7d18c1a05e497",
     "entities": [
       {
         "tableName": "character",
