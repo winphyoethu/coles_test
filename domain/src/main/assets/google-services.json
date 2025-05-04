@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "979100369060",
+    "firebase_url": "https://mixpanel-fd14f.firebaseio.com",
+    "project_id": "mixpanel-fd14f",
+    "storage_bucket": "mixpanel-fd14f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979100369060:android:fbcc9a6854b09eff",
+        "android_client_info": {
+          "package_name": "com.rgo47.mixpanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979100369060-g5e31olh0bjooide96qtumdk8vbfcaa8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rgo47.mixpanel",
+            "certificate_hash": "c53969cfed185080c6e7d6ee68ca9f7062aac77b"
+          }
+        },
+        {
+          "client_id": "979100369060-cfe1uvok37q403rum3rlesqtm65qvu83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxTTow2HEymlfo9rYiCQ4fDsbYnVY6ZVE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979100369060-cfe1uvok37q403rum3rlesqtm65qvu83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -25,6 +25,9 @@ jobs:
       - name: Run Lint
         run: ./gradlew lintDebug
 
+      - name: Validate Json
+        run: ./gradlew validateJson
+
       - name: Upload Lint Report (HTML)
         uses: actions/upload-artifact@v4
         with:

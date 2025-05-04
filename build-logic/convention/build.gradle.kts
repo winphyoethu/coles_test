@@ -54,5 +54,10 @@ gradlePlugin {
             id = "coles.android.lint"
             implementationClass = "AndroidLintConventionPlugin"
         }
+
+        register("validateJson") {
+            id = "coles.android.validateJson"
+            implementationClass = "ValidateJsonPlugin"
+        }
     }
 }
